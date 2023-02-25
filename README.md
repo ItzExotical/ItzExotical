@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Exotical
-- 💼 Owner & Founder of **Hypefox Studios** LTD ([@Hypefox-Studios](https://github.com/Hypefox-Studios "Hypefox Studios LTD"))
+- 💼 Owner & Founder of **Hypefox Studios** LTD ([@officialhypefox](https://github.com/officialhypefox "Hypefox Studios LTD"))
 - 👀 I’m interested in backend/frontend development, API development and app development
 - 🌱 I’m currently looking to further improve my Python and Node.js skills and also learn C#
 - 💞️ I’m looking to collaborate on amazing projects if I do have the time over
