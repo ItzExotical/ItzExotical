@@ -1,6 +1,6 @@
 # Welcome!
 - 👋 Hi, I’m Exotical
-- 💼 Chief Executive Officer at **Hypefox Studios** (Hypefox Ltd) ([@officialhypefox](https://github.com/officialhypefox "Hypefox Studios LTD"))
+- 💼 Chief Executive Officer at **Hypefox Studios** [Hypefox Ltd] ([@officialhypefox](https://github.com/officialhypefox "Hypefox Studios LTD"))
 - 👀 I’m interested in backend/frontend development, API development and app development
 - 🌱 I’m currently looking to further improve my Vue and Nuxt skills and learn React
 - 💞️ I’m looking to collaborate on amazing projects if I do have the time over
