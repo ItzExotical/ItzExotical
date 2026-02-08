@@ -1,11 +1,26 @@
-# Welcome!
-- 👋 Hi, I’m Exotical
-- 💼 Chief Executive Officer at **Hypefox Studios** [Hypefox Ltd] ([@officialhypefox](https://github.com/officialhypefox "Hypefox Ltd"))
-- 👀 I’m interested in backend/frontend development, API development, and app development
-- 💞️ I’m looking to collaborate on amazing projects if I have the time over
-- - 🌱 I’m currently looking to further improve my Vue and Nuxt skills
+# Welcome
+
+👋 I’m Emilio, founder & CEO of **Hypefox AB**  
+I work with infrastructure engineering, automation, and reliability‑focused systems.
+
+💼 At Hypefox, I design and operate production infrastructure with an emphasis on:
+- failure‑resilient design
+- advanced automation systems
+- operational clarity over complexity
+
+🔧 Hands‑on experience in systems engineering, networking, and backend development — with a strong focus on real‑world production behavior.
+
+🤝 I collaborate selectively on projects that value correctness, reliability, and long‑term thinking.
+
+---
 
 # Certifications
-[<img src="https://images.credly.com/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width="200px">](https://www.credly.com/badges/efb3ca18-1049-4b94-ba16-ec86581247c0/public_url)  
 
-More coming soon. Working on it!
+<a href="https://www.credly.com/badges/efb3ca18-1049-4b94-ba16-ec86581247c0/public_url">
+  <img src="https://images.credly.com/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width="180">
+</a>
+
+**Python IT Specialist**  
+Credly‑verified
+
+More certifications in progress.
