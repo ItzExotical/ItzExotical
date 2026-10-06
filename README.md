@@ -1,26 +1,13 @@
-# Welcome
+# Emilio Persson
 
-👋 I’m Emilio, founder & CEO of **Hypefox AB**  
-I work with infrastructure engineering, automation, and reliability‑focused systems.
+Founder and CEO of [Hypefox AB](https://www.hypefox.net) in Malmö, Sweden, and the builder of [Velrix](https://velrix.com), a sovereign cloud platform.
 
-💼 At Hypefox, I design and operate production infrastructure with an emphasis on:
-- failure‑resilient design
-- advanced automation systems
-- operational clarity over complexity
+I've been hands-on in IT operations since I bought my first server at 11: a used Sun Fire from a local company in Malmö. I ran Windows Server 2019 on it and spent most of my time breaking and rebuilding Ubuntu 18.04 in Hyper-V. Since then I've gone from one server to running my own network, [AS214365](https://as214365.peeringdb.com), and building a sovereign cloud platform from scratch.
 
-🔧 Hands‑on experience in systems engineering, networking, and backend development — with a strong focus on real‑world production behavior.
+I build the kind of software people call crazy until they see it run. Velrix is designed to keep working when parts of it fail, to run entirely under the customer's own control, and to be simple to operate for teams of any size.
 
-🤝 I collaborate selectively on projects that value correctness, reliability, and long‑term thinking.
+I care about infrastructure that is fast, transparent and under European control, built from real operational experience rather than theory. Running every part of a company myself, from BGP to bookkeeping, is what taught me what organizations actually need.
 
----
+**Right now** I'm looking for organizations and municipalities that want to shape Velrix as pilot customers, and for partners who care about data sovereignty. If that's you, [get in touch](https://velrix.com/contact).
 
-# Certifications
-
-<a href="https://www.credly.com/badges/efb3ca18-1049-4b94-ba16-ec86581247c0/public_url">
-  <img src="https://images.credly.com/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width="180">
-</a>
-
-**Python IT Specialist**  
-Credly‑verified
-
-More certifications in progress.
+**Certified:** [Python IT Specialist](https://www.credly.com/badges/efb3ca18-1049-4b94-ba16-ec86581247c0/public_url) (Credly)
